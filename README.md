@@ -151,8 +151,8 @@ Siga o passo a passo abaixo para clonar, configurar e executar todos os estágio
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/paulocid95/sistema-automacao-processamento-python.git
-cd sistema-automacao-processamento-python
+git clone https://github.com/paulocid95/pipeline-analise-estoque-python.git
+cd pipeline-analise-estoque-python
 ```
 
 ### 2. Configurar o Ambiente Virtual
