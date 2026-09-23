@@ -1,0 +1,26 @@
+id_produto,produto,categoria,preco,estoque,fornecedor
+FA004,Carregador Turbo 30W USB-C,Carregadores,89.9,120,Fornecedor A
+FA007,Carregador Indução MagSafe,Carregadores,199.99,0,Fornecedor A
+FA010,Carregador Portatil Power Bank 10000mAh,Carregadores,129.0,0,Fornecedor A
+B-104,Fonte Carregador 20W Tipo-C,Carregadores,45.0,100,Fornecedor B
+B-107,Cabo e Adaptador Turbo 65W,Carregadores,99.0,0,Fornecedor B
+SKU-C04,Base Carregador Indussão 15W Sem Fio,Carregadores,110.0,50,Fornecedor C
+SKU-C07,Carregador Super Rápido 45W Type-C,Carregadores,135.0,0,Fornecedor C
+FA003,Fone Bluetooth sem Fio Intra-auricular,Fones de Ouvido,149.9,42,Fornecedor A
+FA006,Headphone Bluetooth com Cancelamento Ruido,Fones de Ouvido,389.0,0,Fornecedor A
+FA009,Fone de Ouvido P2 Basico,Fones de Ouvido,29.9,80,Fornecedor A
+B-103,Fone TWS Air Dots 3,Fones de Ouvido,119.9,30,Fornecedor B
+B-106,Headset Gamer 7.1 Surround,Fones de Ouvido,249.9,15,Fornecedor B
+B-108,Fone Esportivo Bluetooth Neckband,Fones de Ouvido,79.9,18,Fornecedor B
+SKU-C03,Fone bluetoth cancelamento ativo ANC,Fones de Ouvido,329.5,22,Fornecedor C
+SKU-C06,Earbuds Fone TWS Pro Stereo,Fones de Ouvido,89.9,0,Fornecedor C
+SKU-C10,Headphone Over-Ear Studio Monitor,Fones de Ouvido,459.99,11,Fornecedor C
+FA001,Smarthphone Samsung Galaxy S23 128GB,Smartphones,4299.0,15,Fornecedor A
+FA002,iPhone 14 128GB Estelar,Smartphones,4899.9,8,Fornecedor A
+FA008,Xiaomi Redmi Note 13,Smartphones,1350.0,0,Fornecedor A
+B-101,Galaxy A54 5G 256GB,Smartphones,1799.0,12,Fornecedor B
+B-102,Apple iPhone 13 128GB Meia-Noite,Smartphones,3699.5,5,Fornecedor B
+B-109,Smartphone Samsung S24 Ultra,Smartphones,6899.0,0,Fornecedor B
+SKU-C01,Smartfone Motorola Edge 40 Neo,Smartphones,1899.9,14,Fornecedor C
+SKU-C02,iPhone 15 Pro Max 256GB Titânio,Smartphones,7499.0,4,Fornecedor C
+SKU-C09,Smartfone Realme 11 Pro Plus,Smartphones,1999.0,7,Fornecedor C
