@@ -1,0 +1,11 @@
+codigo_item,produto,departamento,Preco,Quantidade,fornecedor
+B-101,Galaxy A54 5G 256GB,SMARTPHONES,1799.00,12,Fornecedor B
+B-102,Apple iPhone 13 128GB Meia-Noite,SMARTPHONE,3699.50,5,Fornecedor B
+B-103,Fone TWS Air Dots 3,FONES,119.90,30.0,Fornecedor B
+B-104,Fonte Carregador 20W Tipo-C,CARREGADOR,45.00,100,Fornecedor B
+B-105,Smarthfone Xiaomi Poco X6 Pro,SMARTPHONES,consultar,8,Fornecedor B
+B-106,Headset Gamer 7.1 Surround,FONE DE OUVIDO,249.90,15 un,Fornecedor B
+B-107,Cabo e Adaptador Turbo 65W,CARREGADORES,99.00,-10,Fornecedor B
+B-108,Fone Esportivo Bluetooth Neckband,,79.90,18,Fornecedor B
+B-109,Smartphone Samsung S24 Ultra,SMARTPHONES,6899.00,,Fornecedor B
+B-110,Carregador Veicular Rapido Duplo,CARREGADOR,,45,Fornecedor B

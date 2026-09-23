@@ -1,0 +1,11 @@
+id_produto,nm_produto,categoria,preco_unitario,qtd_estoque,data_registro
+FA001,Smarthphone Samsung Galaxy S23 128GB,Smartfone,"R$ 4.299,00",15,2026-01-10
+FA002,iPhone 14 128GB Estelar,smartphones,"R$ 4.899,90",8,2026-01-11
+FA003,Fone Bluetooth sem Fio Intra-auricular,FONE DE OUVIDO,"R$ 149,90",42,2026-01-11
+FA004,Carregador Turbo 30W USB-C,carregadores,"R$ 89,90",120,2026-01-12
+FA005,Smartfone Motorola Moto G84 5G,Smartfone,,25,2026-01-12
+FA006,Headphone Bluetooth com Cancelamento Ruido,fones,"R$ 389,00",-3,2026-01-13
+FA007,Carregador Indução MagSafe,Carregadores,"R$ 199,99",SEM ESTOQUE,2026-01-14
+FA008,Xiaomi Redmi Note 13,smartphones,"R$ 1.350,00",,2026-01-14
+FA009,Fone de Ouvido P2 Basico,,"R$ 29,90",80,2026-01-15
+FA010,Carregador Portatil Power Bank 10000mAh,carregador,"R$ 129,00",0,2026-01-15

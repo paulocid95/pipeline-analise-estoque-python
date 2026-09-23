@@ -1,0 +1,11 @@
+sku,item,tipo_produto,valor_brl,estoque_disponivel,status_item
+SKU-C01,Smartfone Motorola Edge 40 Neo,telefonia/smartphone,"1899,90",14,ATIVO
+SKU-C02,iPhone 15 Pro Max 256GB Titânio,smartphone,"7499,00",4,ATIVO
+SKU-C03,Fone bluetoth cancelamento ativo ANC,audio / fone ouvido,"329,50",22,ATIVO
+SKU-C04,Base Carregador Indussão 15W Sem Fio,acessorios/carregador,"110,00",50,ATIVO
+SKU-C05,Smarthphone Asus Zenfone 10,smartphone,"0,00",3,EM REVISAO
+SKU-C06,Earbuds Fone TWS Pro Stereo,fone_ouvido,"89,90",,ATIVO
+SKU-C07,Carregador Super Rápido 45W Type-C,carregadores,"135,00",-1,ERRO
+SKU-C08,Cabo Lightning Reforcado 1.5m,carregadores,,85,ATIVO
+SKU-C09,Smartfone Realme 11 Pro Plus,,"1999,00",7,ATIVO
+SKU-C10,Headphone Over-Ear Studio Monitor,audio/fone,"459,99",11,ATIVO
